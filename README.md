@@ -17,4 +17,4 @@ Usage: python simple_password_generator.py [-h] [--length LENGTH] [--randomorg]
 
 Optional arguments:
 * length: Number of words to be generated
-* randomorg: Use random.org to generate random ids
+* randomorg: Use random.org to generate random ids (not yet implemented)
